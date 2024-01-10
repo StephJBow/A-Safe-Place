@@ -1,16 +1,6 @@
-# a_safe_place
+# A Safe Place
 
-A new Flutter project.
+A Safe Place is an organisational app organisational cross-platform mobile app using Flutter and Dart. This mobile app will provide support to people who are neurodivergent, or anyone wanting
+help to stay organised.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With a focus on mental and physical health, A Safe Place helps users to keep on top of their medical appointments and to-do's, allowing them to save important information in an accessible, but safe, place.
