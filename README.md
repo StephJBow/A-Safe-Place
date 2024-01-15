@@ -12,17 +12,17 @@ A Safe Place is an organisational cross-platform mobile app with features to sup
 
 With a focus on mental and physical health, A Safe Place helps users to keep on top of their medical appointments and to-do's, allowing them to save important information in an accessible, but safe, place.
 
-<img width="200" hspace="10" alt="1 Opening_splash_screen2" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/67f40c8e-dff7-4abf-8300-4f457b8cc21c">
-<img width="200" hspace="10" alt="2  Login_screen" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/80325f96-303c-410c-81fb-b8e79dbd00eb">
-<img width="200" hspace="10" alt="3  SignUp_Page" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/9a02fe32-12cf-4781-a9f1-eca4a221c1d4">
-<img width="200" hspace="10" alt="4  Incorrect signin pop-up" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/3fd05012-934b-44d7-aae9-71d84a60b624">
+<img width="150" hspace="10" alt="1 Opening_splash_screen2" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/67f40c8e-dff7-4abf-8300-4f457b8cc21c">
+<img width="150" hspace="10" alt="2  Login_screen" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/80325f96-303c-410c-81fb-b8e79dbd00eb">
+<img width="150" hspace="10" alt="3  SignUp_Page" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/9a02fe32-12cf-4781-a9f1-eca4a221c1d4">
+<img width="150" hspace="10" alt="4  Incorrect signin pop-up" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/3fd05012-934b-44d7-aae9-71d84a60b624">
 <br> </br>
 Using Firebase Firestore, I was able to set-up User Authentication by email. This adds a layer of security and allows users to create their unique account linked to their email address with a set password. It also displays an error when the wrong email or password is input.
 <br> </br>
-<img width="200" hspace="10" alt="5  Successful signin pop-up" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/35b5d1f6-9427-4e55-b515-ef5544a6abae">
-<img width="200" hspace="10" alt="6  Homepage" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/10cbd079-0a14-46e9-abb5-63ddd4ae2ca8">
-<img width="200" hspace="10" alt="7  Menu" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/f6bd57b4-8343-4c8d-bfe0-25945fd01080">
-<img width="200" hspace="10" alt="8  Profile_page" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/15264c60-f328-46e6-8233-9c2fdb2d3bd4">
+<img width="150" hspace="10" alt="5  Successful signin pop-up" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/35b5d1f6-9427-4e55-b515-ef5544a6abae">
+<img width="150" hspace="10" alt="6  Homepage" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/10cbd079-0a14-46e9-abb5-63ddd4ae2ca8">
+<img width="150" hspace="10" alt="7  Menu" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/f6bd57b4-8343-4c8d-bfe0-25945fd01080">
+<img width="150" hspace="10" alt="8  Profile_page" src="https://github.com/StephJBow/A-Safe-Place/assets/136998085/15264c60-f328-46e6-8233-9c2fdb2d3bd4">
 <br> </br>
 Once signed it, the user can access their Home Page. A minimalist design, users have access to a Burger Menu on the top left and a Profile button on the top right, both with additional features.
 <br> </br>
